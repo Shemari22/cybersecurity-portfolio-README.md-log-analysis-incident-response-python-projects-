@@ -73,3 +73,17 @@ I am passionate about identifying threats, analyzing security events, and helpin
 
 ## Connect With Me
 www.linkedin.com/in/shemari-gayle-b7b4a33b0
+## MITRE ATT&CK Mapping
+- Technique: T1110 – Brute Force
+- Description: Adversaries attempt to gain access by guessing passwords
+
+## Skills Demonstrated
+- Log analysis
+- Threat detection
+- Incident investigation
+- Command-line usage
+
+## Recommendations
+- Implement account lockout policies
+- Monitor login attempts
+- Use intrusion detection systems
